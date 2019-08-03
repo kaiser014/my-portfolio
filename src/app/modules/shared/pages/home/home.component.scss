@@ -1,0 +1,25 @@
+.display-4 {
+    font-size: 3rem;
+    margin-top: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bg-dark {
+    background-image: url('~src/assets/img/bg.png');
+    //background: linear-gradient(to bottom right, #1e809b, #28ccf8);
+    //background-color: #343a40 !important;
+    height: 480px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.lead.my-3{
+    font-size: 35px;
+}
+.portfolio-name {
+    color: red;
+    font-size: 35px;
+    font-weight: bold;
+}
+.text-white {
+    color: #fff !important;
+    font-size: 35px;
+}
